@@ -32,8 +32,7 @@ Cursando **Análise e Desenvolvimento de Sistemas (ADS)**, 24 anos, sempre com u
 - **Infra & redes:** Linux e Windows, configuração de rede (DHCP, firewall, portas), deploy e continuidade em produção
 - **Ferramentas de dev:** Git/GitHub, VS Code, Cursor, Claude Code
 
-> _Frameworks web (ex.: Flask / FastAPI / React) — ajuste esta linha para o que você usa de fato no projeto._
-
+> _Frameworks web (ex.: Flask / FastAPI / React) 
 ---
 
 ### 🚀 Em destaque

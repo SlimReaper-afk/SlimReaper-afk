@@ -47,11 +47,10 @@ Cursando **Análise e Desenvolvimento de Sistemas (ADS)**, 24 anos, sempre com u
 
 ---
 
-### 🔨 Em construção
+### 💼 Projetos
 
-- **Gerador de senhas em Python** — projeto de portfólio (em desenvolvimento).
+- **[Gerador de senhas seguras](https://github.com/SlimReaper-afk/password-generator)** — Python + Flask. Aleatoriedade criptográfica com `secrets`, interface web com medidor de força e testes automatizados.
 - **Versão open-source de um sistema de gestão de expedição** — releitura genérica, com o corpo do sistema e dados de exemplo (em preparação).
-
 ---
 
 ### 📈 GitHub
